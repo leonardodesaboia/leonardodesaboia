@@ -1,16 +1,22 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6A0DAD,50:8E54E9,100:6A0DAD&amp;height=220&amp;section=header&amp;text=Leonardo%20de%20Saboia&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=40" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4776E6,50:8E54E9,100:4776E6&amp;height=220&amp;section=header&amp;text=Leonardo%20de%20Saboia&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20Founder%20%26%20CTO%20%40%20AllSet&amp;descColor=ffffffcc&amp;descAlignY=58" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;pause=1000&amp;color=8E54E9&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Building+real+products+since+I+was+18.;Full+Stack+%7C+React+%2F+Next.js+%2F+NestJS+%2F+Java;Founder+%26+CTO+of+AllSet;1st+place+Hackathon+Tech+por+Elas;2nd+place+ABINC+IoT+Awards+2025" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=8E54E9&center=true&vCenter=true&width=620&lines=Building+real+products+since+I+was+20.;Full+Stack+%7C+React+%2F+Next.js+%2F+NestJS+%2F+Java;Founder+%26+CTO+of+AllSet;1st+place+Hackathon+Tech+por+Elas+%F0%9F%8F%86;2nd+place+ABINC+IoT+Awards+2025+%F0%9F%8F%86)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardodesaboia)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardodesaboia1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonardodesaboia)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/leonardodesaboia">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+  </a>
+  <a href="mailto:leonardodesaboia1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+  </a>
+  <a href="https://github.com/leonardodesaboia">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -145,17 +151,15 @@ const leonardo = {
 
 > ⚠️ My commit activity is split — personal projects live here on GitHub, while work projects at **Vortex Lab** are hosted on **GitLab**. These numbers don't reflect my full activity.
 
-<div align="center">
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=leonardodesaboia&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8E54E9&amp;icon_color=8E54E9&amp;text_color=8b949e" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodesaboia&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8E54E9&amp;text_color=8b949e" />
+</p>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=leonardodesaboia&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8E54E9&amp;icon_color=4776E6&amp;text_color=8b949e"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodesaboia&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8E54E9&amp;text_color=8b949e"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=leonardodesaboia&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=8E54E9&amp;fire=4776E6&amp;currStreakLabel=8E54E9" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=leonardodesaboia&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=8E54E9&amp;fire=8E54E9&amp;currStreakLabel=8E54E9&amp;sideLabels=8E54E9&amp;dates=8b949e" />
+</p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4776E6,50:8E54E9,100:4776E6&amp;height=120&amp;section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6A0DAD,50:8E54E9,100:6A0DAD&amp;height=120&amp;section=footer" />
