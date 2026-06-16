@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,50:8E54E9,100:4776E6&height=220&section=header&text=Leonardo%20de%20Saboia&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Founder%20%26%20CTO%20%40%20AllSet&descColor=ffffffcc&descAlignY=58&animation=twinkling)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4776E6,50:8E54E9,100:4776E6&amp;height=220&amp;section=header&amp;text=Leonardo%20de%20Saboia&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20Founder%20%26%20CTO%20%40%20AllSet&amp;descColor=ffffffcc&amp;descAlignY=58" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=8E54E9&center=true&vCenter=true&width=620&lines=Building+real+products+since+I+was+20.;Full+Stack+%7C+React+%2F+Next.js+%2F+NestJS+%2F+Java;Founder+%26+CTO+of+AllSet;1st+place+Hackathon+Tech+por+Elas+%F0%9F%8F%86;2nd+place+ABINC+IoT+Awards+2025+%F0%9F%8F%86)](https://git.io/typing-svg)
 
@@ -152,10 +152,10 @@ const leonardo = {
 
 <br/>
 
-![Streak](https://streak-stats.demolab.com?user=leonardodesaboia&theme=github-dark-blue&hide_border=true&background=0d1117&ring=8E54E9&fire=4776E6&currStreakLabel=8E54E9)
+<img src="https://streak-stats.demolab.com?user=leonardodesaboia&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=8E54E9&amp;fire=4776E6&amp;currStreakLabel=8E54E9" />
 
 </div>
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,50:8E54E9,100:4776E6&height=120&section=footer)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4776E6,50:8E54E9,100:4776E6&amp;height=120&amp;section=footer" />
